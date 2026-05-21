@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=1000&color=F97FBA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akshitha+NR;Software+Dev+Enthusiast+%F0%9F%92%BB;Building+one+line+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="girl coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="girl coding gif"/>
 
 <br><br>
 
