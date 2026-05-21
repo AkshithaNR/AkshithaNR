@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="girl coding gif"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="380" alt="girl coding serious"/>
 
 <br><br>
 
